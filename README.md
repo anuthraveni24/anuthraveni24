@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Anuthraveni Damma
 
-<!--
-**anuthraveni24/anuthraveni24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer
 
-Here are some ideas to get you started:
+B.Sc Computer Science graduate passionate about building web applications using Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🛒 E-Commerce Website – Django-based online shopping application
+
+
+## 💼 Internship
+
+**Python Development Intern**  
+Cognifyz Technologies
+
+## 🌱 Currently Learning
+
+- Advanced Django
+- Full Stack Web Development
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+
+---
+
+⭐ Thanks for visiting my profile!
