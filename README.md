@@ -14,11 +14,6 @@ B.Sc Computer Science graduate passionate about building web applications using 
 - SQL
 - Git & GitHub
 
-## 🚀 Projects
-
-- 🛒 E-Commerce Website – Django-based online shopping application
-
-
 ## 💼 Internship
 
 **Python Development Intern**  
