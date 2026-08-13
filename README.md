@@ -31,7 +31,9 @@ Cognifyz Technologies
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
+- LinkedIn: www.linkedin.com/in/
+anuthraveni-damma-bb5118338
+
 
 ---
 
