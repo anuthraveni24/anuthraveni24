@@ -30,11 +30,6 @@ B.Sc Computer Science graduate passionate about building web applications using 
 **Python Development Intern**  
 Cognifyz Technologies
 
-## 🎓 Education
-
-**B.Sc. Computer Science**  
-Dharmika Degree College  
-Satavahana University | 2025
 
 ## 📜 Certifications
 
