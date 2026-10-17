@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anuthraveni Damma
 
-### Python Full Stack Developer
+### Python Full Stack Developer | Fresher
 
 B.Sc Computer Science graduate passionate about building web applications using Python and Django.
 
@@ -14,21 +14,44 @@ B.Sc Computer Science graduate passionate about building web applications using 
 - SQL
 - Git & GitHub
 
+## 🚀 Projects
+
+### Personal Portfolio Website
+- Developed a personal portfolio using Python, Django, HTML, CSS, and JavaScript.
+- Showcases my skills, education, internships, certifications, and projects.
+- Includes a resume download feature.
+
+🔗 **Live Website:** https://anuthraveni-portfolio-2026.onrender.com
+
+🔗 **GitHub Repository:** https://github.com/anuthraveni24/portfolio
+
 ## 💼 Internship
 
 **Python Development Intern**  
 Cognifyz Technologies
 
+## 🎓 Education
+
+**B.Sc. Computer Science**  
+Dharmika Degree College  
+Satavahana University | 2025
+
+## 📜 Certifications
+
+- Python Development Internship Certificate — Cognifyz Technologies
+- Front-End Development Internship Certificate — SaiKet Systems
+
+
 ## 🌱 Currently Learning
 
 - Advanced Django
-- Full Stack Web Development
+- Building practical web applications
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/
-anuthraveni-damma-bb5118338
-
+- **LinkedIn:** https://www.linkedin.com/in/anuthraveni-damma-bb5118338
+- **GitHub:** https://github.com/anuthraveni24
+- **Portfolio:** https://anuthraveni-portfolio-2026.onrender.com
 
 ---
 
